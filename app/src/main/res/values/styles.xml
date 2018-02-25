@@ -1,0 +1,32 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyTheme" parent="AppTheme" >
+        <item name="colorPrimary">@color/myPrimaryColor</item>
+        <item name="colorPrimaryDark">@color/myPrimaryDarkColor</item>
+        <item name="colorAccent">@color/myAccentColor</item>
+        <item name="android:colorBackground">@color/myBackgroundColor</item>
+        <item name="android:colorForeground">@color/myForegroundColor</item>
+        <item name="android:textColorPrimary">@color/myPrimaryTextColor</item>
+        <item name="android:textColorSecondary">@color/mySecondaryTextColor</item>
+        <item name="android:textColorPrimaryInverse">@color/myPrimaryTextInvertColor</item>
+    </style>
+
+    <color name="myPrimaryColor">#222222</color>
+    <color name="myPrimaryDarkColor">#FFFFFF</color>
+    <color name="myAccentColor">#0d47a1</color>
+    <color name="myBackgroundColor">#222222</color>
+    <color name="myForegroundColor">#0d47a1</color>
+    <color name="myNavigationBarColor">#424242</color>
+    <color name="myStatusBarColor">#222222</color>
+    <color name="myPrimaryTextColor">#FFFFFF</color>
+    <color name="myPrimaryTextInvertColor">#AAAAAA</color>
+    <color name="mySecondaryTextColor">#AAAAAA</color>
+
+</resources>

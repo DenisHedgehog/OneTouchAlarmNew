@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OneTouchAlarmNew</string>
+    <string name="start_button">Start</string>
+    <string name="set_time_button">Choose time</string>
+    <string name="set_alarm_time">Set alarm time</string>
+    <string name="set_alarm_button">Set alarm</string>
+    <string name="my_shared_preferences">myPreferences</string>
+    <string name="shared_preferences_alarm_active">alarmIsActive</string>
+    <string name="shared_preferences_alarm_time">alarmTime</string>
+    <string name="stop_alarm_button">STOP</string>
+    <string name="cancel_alarm_button">Cancel</string>
+    <string name="fixed_alarm_volume_message">Fixed!</string>
+</resources>
